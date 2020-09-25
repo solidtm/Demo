@@ -42,6 +42,6 @@ _**It's pretty easy to ~~apply~~ multiple styles.**_
 
 >>>>> These keep nesting at 20. I stopped checking after that point.
 
+# Adding Image to Readme.md
 
-
-![logo](direct link to image)
+![logo](readme_resources/logo.jpg)
