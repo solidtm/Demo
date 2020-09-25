@@ -17,7 +17,7 @@ I just modified this Readme.md file so i can learn now how to use github!
 ##### There are six different headers you can use for text.
 ###### This is sixth section!
 
-#Applying styles on text
+# Applying styles on text
 
 **This text is bold.**
 
@@ -28,3 +28,16 @@ I just modified this Readme.md file so i can learn now how to use github!
 ~~**What if something is really important gets crossed out?**~~
 
 _**It's pretty easy to ~~apply~~ multiple styles.**_
+
+
+# Quoting Text
+
+> I body him.
+
+>> There's gonna come a point where you'll forget about what happened and you're gonna wanna come back at me.
+
+>>> Don't get hit
+
+>>>> SERIOUSLY, don't get hit.
+
+>>>>> These keep nesting at 20. I stopped checking after that point.
