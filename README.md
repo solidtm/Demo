@@ -45,3 +45,25 @@ _**It's pretty easy to ~~apply~~ multiple styles.**_
 # Adding Image to Readme.md
 
 ![logo](https://github.com/EbubeCode/CMD_Team_Project/blob/master/readme_resources/logo.jpg)
+
+
+### shopping list pt 1
+
+* allen wrenches
+* gerbil feeders
+* toilet seats
+* electric heaters
+* Trash compactors
+* juice extractor
+* shower rods and water meters
+***
+### shopping list pt 2
+
+1. Walkie-talkies
+- copper wires safety goggles
+- radial tires
+***
+### shopping list pt 3
+* Picture hangers
+	* paper cutters
+		* waffle irons
