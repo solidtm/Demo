@@ -7,7 +7,8 @@ I just modified this Readme.md file so i can learn now how to use github!
   
 <div align="center"><b>First CMD project as a team<b></div>
   
-  # Making text bold
+  
+ #Making text bold
   
  # This is the highest level of the text.
 ## This is the second highest level of the text.
