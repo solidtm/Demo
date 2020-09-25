@@ -44,4 +44,4 @@ _**It's pretty easy to ~~apply~~ multiple styles.**_
 
 # Adding Image to Readme.md
 
-![logo](readme_resources/logo.jpg)
+![logo](https://github.com/EbubeCode/CMD_Team_Project/blob/master/readme_resources/logo.jpg)
