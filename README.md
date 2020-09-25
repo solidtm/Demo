@@ -1,13 +1,13 @@
 # Demo
 
-
+***
 I just modified this Readme.md file so i can learn now how to use github!
 
 >>>>>#CMD_TEAM Fund Collation Application
   
 <div align="center"><b>First CMD project as a team<b></div>
   
-  
+ *** 
  #Making text bold
   
  # This is the highest level of the text.
@@ -16,7 +16,7 @@ I just modified this Readme.md file so i can learn now how to use github!
 #### These are useful for subsections for large chunks of information.
 ##### There are six different headers you can use for text.
 ###### This is sixth section!
-
+***
 # Applying styles on text
 
 **This text is bold.**
@@ -28,7 +28,7 @@ I just modified this Readme.md file so i can learn now how to use github!
 ~~**What if something is really important gets crossed out?**~~
 
 _**It's pretty easy to ~~apply~~ multiple styles.**_
-
+***
 
 # Quoting Text
 
@@ -41,11 +41,11 @@ _**It's pretty easy to ~~apply~~ multiple styles.**_
 >>>> SERIOUSLY, don't get hit.
 
 >>>>> These keep nesting at 20. I stopped checking after that point.
-
+***
 # Adding Image to Readme.md
 
 ![logo](https://github.com/EbubeCode/CMD_Team_Project/blob/master/readme_resources/logo.jpg)
-
+***
 
 ### shopping list pt 1
 
@@ -56,7 +56,7 @@ _**It's pretty easy to ~~apply~~ multiple styles.**_
 * Trash compactors
 * juice extractor
 * shower rods and water meters
-***
+*** 
 ### shopping list pt 2
 
 1. Walkie-talkies
